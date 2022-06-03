@@ -1,0 +1,14 @@
+name: ggtree
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+  - jupyterlab
+  - r-irkernel
+  - bioconductor-ggtree
+  - ca-certificates
+  - certifi
+  - openssl
+  - r-tidyverse
